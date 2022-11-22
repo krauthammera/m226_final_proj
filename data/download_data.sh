@@ -1,6 +1,6 @@
 #!/bin/bash
 
-stage=2
+stage=0
 
 if (("$stage" <= 0))
 then
